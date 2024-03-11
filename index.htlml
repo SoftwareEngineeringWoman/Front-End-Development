@@ -1,4 +1,8 @@
 <!doctype html>
+<!--click ALT for multiple cursors -->
+<!--click ALT shift down arrow to replicate-->
+<!--type lorem23 for sample 23 words-->
+<!--click ALT shift down arrow to replicate-->
 
 <html lang="en">
 <head>
@@ -10,6 +14,11 @@
 <body>
     Welcome!
     <script src="script.js"></script>
+    <p style="background-color: white;"> 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, tenetur hic aspernatur corrupti deleniti ipsa? Atque, ullam? Doloremque natus consequatur, necessitatibus officia quidem iure doloribus itaque eaque nisi voluptas nulla.
+    </p>
+
+
 </body>
 
 </html>
